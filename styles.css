@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #38bdf8;
-    --dark-gray: #6b7280;
-    --off-white: #f1f5f9;
+    --primary-color: #1C315E;
+    --dark-gray: #c1c3c7;
+    --white: #ffffff;
 }
 
 hr {
