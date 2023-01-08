@@ -1,2 +1,2 @@
 # Kathir-portfolioWebsite
- Showcase my skills, experience and project
+ Just Showcasing my skills, experience and project
